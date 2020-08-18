@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="CMS-1727 Cancelar as visitas não realizadas 03 dias após a data da visita" />
+    <option name="defaultScopeName" value="CMS-1727 Cancelar as visitas não realizadas 03 dias após a data da visita" />
+    <option name="SEARCH_SCOPE" value="CMS-1727 Cancelar as visitas não realizadas 03 dias após a data da visita" />
   </component>
 </application>
