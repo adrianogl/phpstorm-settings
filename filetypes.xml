@@ -1,6 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="url2" type="PLAIN_TEXT" />
+      <mapping pattern="url" type="PLAIN_TEXT" />
+      <mapping pattern="xxxx" type="PLAIN_TEXT" />
+      <mapping pattern="xxx" type="PLAIN_TEXT" />
       <mapping ext="jxs" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
