@@ -1,5 +1,5 @@
 <templateSet group="Custom">
-  <template name="dest" value="const { $VAR$ } = $END$" description="" toReformat="false" toShortenFQNames="true">
+  <template name="dest" value="const { $VAR$ } = $END$" description="Destructing variables" toReformat="false" toShortenFQNames="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
