@@ -1,0 +1,7 @@
+<templateSet group="user">
+  <template name="st" value="declare(strict_types=1);" description="strict types" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
