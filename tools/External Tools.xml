@@ -1,8 +1,8 @@
 <toolSet name="External Tools">
   <tool name="php-cs-fixer" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="$USER_HOME$/Code/CasaMineira/sistema/vendor/friendsofphp/php-cs-fixer/php-cs-fixer" />
-      <option name="PARAMETERS" value="fix --allow-risky=yes $FileDir$/$FileName$" />
+      <option name="COMMAND" value="$ProjectFileDir$/vendor/friendsofphp/php-cs-fixer/php-cs-fixer" />
+      <option name="PARAMETERS" value="fix $FileDir$/$FileName$" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
